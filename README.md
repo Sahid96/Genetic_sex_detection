@@ -58,9 +58,9 @@ metagenomic studies.
 | 6    | `samtools view -F4`               | Isolate mapped (human) reads                       |
 | 7    | `bedtools bamtofastq` + `pigz`    | Convert BAM → (paired) FASTQ for downstream checks |
 | 8    | `metaphlan`                       | Check microbial contamination
-| 8    | `picard MarkDuplicates`           | Mark PCR/optical duplicates                        |
-| 9    | `samtools idxstats`               | Obtain per‑chromosome depth                        |
-| 10   | `python (RYX) = readsY / readsX`  | Logistic model predicts sex                        |
+| 9    | `picard MarkDuplicates`           | Mark PCR/optical duplicates                        |
+| 10    | `samtools idxstats`               | Obtain per‑chromosome depth                        |
+| 11   | `python (RYX) = readsY / readsX`  | Logistic model predicts sex                        |
 
 
 
