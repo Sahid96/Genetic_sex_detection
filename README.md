@@ -5,6 +5,8 @@ Bioinformatics workflow employed for the extraction of human-origin reads from s
 ## Overview
 ![image](https://github.com/user-attachments/assets/9449c300-4b7f-4f61-b9e1-061d83d2b019)
 
+Mollick, S.A, (2025). Genetic sex prediction from human gut shotgun metagenomic data: An ethical appraisal. *Forensic Science International*.[![DOI](https://img.shields.io/badge/DOI-10.1016%2Fj.forsciint.2025.112585-blue)](https://doi.org/10.1016/j.forsciint.2025.112585)
+
 
 This repository provides a **reproducible, end‑to‑end bioinformatics workflow** to
 
